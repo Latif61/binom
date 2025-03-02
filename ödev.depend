@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740933897 source:c:\users\gold-s\desktop\Ýleri\dersler\kodlama\projeler\ödev1\ödev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
